@@ -1,13 +1,14 @@
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Keyboard&pause=1000&color=FFCC00&background=640D5F00&center=true&vCenter=true&multiline=true&width=435&lines=HI+I+AM+AMAN+TEWARI" alt="Typing SVG" />
+<div align="center" style="position: relative; width: 435px; margin: auto;">
+  <img src="assets/banner.png" alt="Aman Tewari Banner" style="width: 100%; position: absolute; top: 0; left: 0; z-index: 0; opacity: 0.7;" />
+  <a href="https://git.io/typing-svg" style="position: relative; z-index: 1;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Keyboard&size=48&pause=1000&color=FFCC00&background=640D5F00&center=true&vCenter=true&multiline=true&width=435&lines=HI+I+AM+AMAN+TEWARI" alt="Typing SVG" />
   </a>
-</p>
+</div>
 <p align="center">
   <b>B.Tech CSE @ UPES, Dehradun</b> <br>
-  🚀 Curious builder learning by shipping projects<br>
-  <em>"Simplicity is the ultimate sophistication"</em>
+  Always a ear for new tech<br>
+  <em>"Simplcicity is the ultimate sophistication"</em>
 </p>
 
 <p align="center">
@@ -18,6 +19,15 @@
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/AmanTewariSkoolKid?style=for-the-badge&label=Profile%20Stars" />
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AmanTewariSkoolKid&style=for-the-badge&color=blue" />
+  <a href="https://linkedin.com/in/amantewari">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/amantewari">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://amant.dev">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-amant.dev-9cf?style=for-the-badge" />
+  </a>
 </p>
 
 
@@ -64,7 +74,9 @@
 
 
 ## 📬 How to Reach Me
-- Email: aman.tms347@gmail.com
+- Email: aman.tewari@email.com
 
 
+## 🏆 Achievements & Certifications
+- 
 
