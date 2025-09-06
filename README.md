@@ -6,7 +6,7 @@
 
 NEW
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Keyboard&pause=1000&color=FFCC00&background=640D5F00&center=true&vCenter=true&multiline=true&width=435&lines=HI+I+AM+AMAN+TEWARI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Keyboard&size=48&pause=1000&color=FFCC00&background=640D5F00&center=true&vCenter=true&multiline=true&width=435&lines=HI+I+AM+AMAN+TEWARI" alt="Typing SVG" /></a>
 
 
 <h1 align="center">Hi, I'm Aman 👋</h1>
