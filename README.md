@@ -64,9 +64,7 @@
 
 
 ## 📬 How to Reach Me
-- Email: aman.tewari@email.com
+- Email: aman.tms347@gmail.com
 
 
-## 🏆 Achievements & Certifications
-- 
 
