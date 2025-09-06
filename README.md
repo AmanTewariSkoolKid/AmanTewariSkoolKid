@@ -45,12 +45,3 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTewariSkoolKid&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <!-- Cards are provided by github-readme-stats and update automatically; themes and params can be customized. -->[6][7][8]
-
-## How to reach
-- Email: add a public contact in bio or README when ready.  
-- LinkedIn/Portfolio: add links once published for quick discovery.[9]
-
-## Setup notes (remove later)
-- Ensure this README sits in a public repo named AmanTewariSkoolKid so it renders on the profile top.  
-- Edit badges and tech to match skills; add more Shields from catalogs or a generator if desired.[10][11][1]
---- end of README.md ---
