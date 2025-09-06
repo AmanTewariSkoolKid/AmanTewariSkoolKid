@@ -1,6 +1,3 @@
-Here’s a complete, polished README.md tailored for the GitHub profile “AmanTewariSkoolKid.” It uses a clean intro, quick facts, tech, pinned work, and dynamic stat cards that auto‑update. Paste this into the special repository named exactly AmanTewariSkoolKid so it shows on the profile page.[1][2]
-
---- start of README.md ---
 <h1 align="center">Hi, I'm Aman 👋</h1>
 <p align="center">
   B.Tech CSE @ UPES, Dehradun -  Curious builder learning by shipping projects 🚀
@@ -57,33 +54,3 @@ Here’s a complete, polished README.md tailored for the GitHub profile “AmanT
 - Ensure this README sits in a public repo named AmanTewariSkoolKid so it renders on the profile top.  
 - Edit badges and tech to match skills; add more Shields from catalogs or a generator if desired.[10][11][1]
 --- end of README.md ---
-
-### What was used and why
-- The special profile README renders when the repository name equals the username and is public; this is how the profile in the screenshot is achieved.[2][1]
-- Dynamic stats/top‑languages cards come from the community project “github-readme-stats” and can be themed, compacted, or filtered with parameters like layout=compact and hide=… as needed.[12][7]
-- Shields-style badges and best‑practice guidance keep visuals clean, consistent, and accessible.[5][4]
-
-[1](https://github.com/AmanTewariSkoolKid)
-[2](https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile)
-[3](https://www.freecodecamp.org/news/create-personalized-github-profile-page/)
-[4](https://daily.dev/blog/best-practices-for-github-markdown-badges)
-[5](https://daily.dev/blog/github-markdown-badges-explained)
-[6](https://aleksandarpopovic.com/Easiest-way-to-set-up-your-Github-profile-page/)
-[7](https://github.com/anuraghazra/github-readme-stats)
-[8](https://github.com/anuraghazra/github-readme-stats/issues/1801)
-[9](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[10](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-[11](https://ileriayo.github.io/markdown-badges/)
-[12](https://stackoverflow.com/questions/66374503/show-languages-with-github-readme-md-stats)
-[13](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/81491232/9b72830a-25d3-4235-8dbe-f48c0190c991/image.jpg)
-[14](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
-[15](https://github.com/topics/profile-readme)
-[16](https://www.reddit.com/r/github/comments/uulygm/what_are_some_really_nice_github_profile_readmes/)
-[17](https://dev.to/parth_johri/create-an-attractive-github-profile-readme-noj)
-[18](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-[19](https://gprm.itsvg.in)
-[20](https://github.com/Ileriayo/markdown-badges)
-[21](https://github.com/topics/github-profile-readme)
-[22](https://github.com/henriquesebastiao/badges)
-[23](https://www.youtube.com/watch?v=4cgpu9L2AE8)
-[24](https://github.com/anuraghazra/github-readme-stats/discussions/1878)
