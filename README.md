@@ -1,15 +1,8 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmanTewariSkoolKid/AmanTewariSkoolKid/main/assets/banner.png" alt="Aman Tewari Banner" width="100%" />
-</p>
 
 
-NEW
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Keyboard&size=48&pause=1000&color=FFCC00&background=640D5F00&center=true&vCenter=true&multiline=true&width=435&lines=HI+I+AM+AMAN+TEWARI" alt="Typing SVG" /></a>
-
-
-<h1 align="center">Hi, I'm Aman 👋</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Keyboard&pause=1000&color=FFCC00&background=640D5F00&center=true&vCenter=true&multiline=true&width=435&lines=HI+I+AM+AMAN+TEWARI" alt="Typing SVG" /></a></h1>
 <p align="center">
   <b>B.Tech CSE @ UPES, Dehradun</b> <br>
   🚀 Curious builder learning by shipping projects<br>
