@@ -1,6 +1,6 @@
 
 <div align="center" style="position: relative; width: 435px; margin: auto;">
-  <img src="assets/banner.png" alt="Aman Tewari Banner" style="width: 100%; position: absolute; top: 0; left: 0; z-index: 0; opacity: 0.7;" />
+  <img src="20250121_174110.jpg" alt="Aman Tewari Banner" style="width: 100%; position: absolute; top: 0; left: 0; z-index: 0; opacity: 0.7;" />
   <a href="https://git.io/typing-svg" style="position: relative; z-index: 1;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Keyboard&size=48&pause=1000&color=FFCC00&background=640D5F00&center=true&vCenter=true&multiline=true&width=435&lines=HI+I+AM+AMAN+TEWARI" alt="Typing SVG" />
   </a>
