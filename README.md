@@ -19,23 +19,15 @@
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/AmanTewariSkoolKid?style=for-the-badge&label=Profile%20Stars" />
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AmanTewariSkoolKid&style=for-the-badge&color=blue" />
-  <a href="https://linkedin.com/in/amantewari">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/amantewari">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://amant.dev">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-amant.dev-9cf?style=for-the-badge" />
-  </a>
-</p>
+ 
 
 
 ## 👨‍💻 About Me
 - B.Tech CSE student at UPES Bidholi, Dehradun, India
 - Enjoys building web tools and experimenting with data/algorithms
 - Currently polishing JavaScript/TypeScript and problem-solving
-- Fun fact: I love hiking and exploring new tech communities!
+- Polishing Python as well
+- Fun fact: I love Cars , video games.
 
 
 ## 🛠️ Tech Stack
