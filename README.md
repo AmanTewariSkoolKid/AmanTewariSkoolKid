@@ -17,9 +17,6 @@
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/AmanTewariSkoolKid?style=for-the-badge&label=Profile%20Stars" />
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AmanTewariSkoolKid&style=for-the-badge&color=blue" />
-  <a href="https://linkedin.com/in/amantewari">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
 </p>
 
 
