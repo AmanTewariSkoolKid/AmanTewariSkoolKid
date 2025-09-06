@@ -1,8 +1,12 @@
+![1757182134029](image/readme/1757182134029.png)![1757182135804](image/readme/1757182135804.png)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Keyboard&pause=1000&color=FFCC00&background=640D5F00&center=true&vCenter=true&multiline=true&width=435&lines=HI+I+AM+AMAN+TEWARI" alt="Typing SVG" /></a>
 
 
-
-
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Keyboard&pause=1000&color=FFCC00&background=640D5F00&center=true&vCenter=true&multiline=true&width=435&lines=HI+I+AM+AMAN+TEWARI" alt="Typing SVG" /></a></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Keyboard&size=48&pause=1000&color=FFCC00&background=640D5F00&center=true&vCenter=true&multiline=true&width=435&lines=HI+I+AM+AMAN+TEWARI" alt="Typing SVG" />
+  </a>
+</p>
 <p align="center">
   <b>B.Tech CSE @ UPES, Dehradun</b> <br>
   🚀 Curious builder learning by shipping projects<br>
@@ -17,6 +21,15 @@
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/AmanTewariSkoolKid?style=for-the-badge&label=Profile%20Stars" />
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AmanTewariSkoolKid&style=for-the-badge&color=blue" />
+  <a href="https://linkedin.com/in/amantewari">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/amantewari">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://amant.dev">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-amant.dev-9cf?style=for-the-badge" />
+  </a>
 </p>
 
 
@@ -33,7 +46,7 @@
 | JavaScript    | React, Node.js    | Git, VS Code  |
 | TypeScript    | Express           | GitHub        |
 | HTML5, CSS3   | Bootstrap         | Postman       |
-| Python        | Flask             | Figma         |
+| Python        | Flash, Tinkiter, Panda             | Unreal Engine 5         |
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
@@ -53,11 +66,11 @@
 
 ## 📊 GitHub Stats & Activity
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanTewariSkoolKid&show_icons=true&hide_border=true&title_color=640D5F&icon_color=FFCC00&text_color=B12C00&bg_color=30,640D5F,B12C00,EB5B00,FFCC00" alt="Aman's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTewariSkoolKid&layout=compact&hide_border=true&title_color=640D5F&text_color=B12C00&bg_color=30,640D5F,B12C00,EB5B00,FFCC00" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanTewariSkoolKid&show_icons=true&hide_border=true&title_color=640D5F&icon_color=640D5F&text_color=222222&bg_color=FFCC00,FFF9E3" alt="Aman's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTewariSkoolKid&layout=compact&hide_border=true&title_color=640D5F&text_color=222222&bg_color=FFCC00,FFF9E3" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api?username=AmanTewariSkoolKid&bg=640D5F&color=B12C00&line=EB5B00&point=FFCC00&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-contribution-graph.vercel.app/api?username=AmanTewariSkoolKid&bg=FFCC00&color=640D5F&line=EB5B00&point=B12C00&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 <!-- Cards are provided by github-readme-stats and update automatically; themes and params can be customized. -->
 
