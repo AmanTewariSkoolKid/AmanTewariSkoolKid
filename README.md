@@ -7,7 +7,7 @@
 <p align="center">
   <b>B.Tech CSE @ UPES, Dehradun</b> <br>
   🚀 Curious builder learning by shipping projects<br>
-  <em>"Code, create, and connect!"</em>
+  <em>"Simplicity is the ultimate sophistication"</em>
 </p>
 
 <p align="center">
