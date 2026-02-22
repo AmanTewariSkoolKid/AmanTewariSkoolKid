@@ -1,70 +1,87 @@
+<div align="center">
 
-<div align="center" style="position: relative; width: 435px; margin: auto;">
-  <img src="20250121_174110.jpg" alt="Aman Tewari Banner" style="width: 100%; position: absolute; top: 0; left: 0; z-index: 0; opacity: 0.7;" />
-  <a href="https://git.io/typing-svg" style="position: relative; z-index: 1;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Keyboard&size=24&pause=1000&color=FFCC00&background=640D5F00&center=true&vCenter=true&multiline=true&width=435&lines=HI+I+AM+AMAN+TEWARI" alt="Typing SVG" />
-  </a>
+  <img src="20250121_174110.jpg" alt="Aman Tewari Banner" width="720" style="border-radius: 12px;" />
+
+  <h1 style="margin-bottom:0;">Aman Tewari</h1>
+  <p style="margin-top:4px;">
+    <b>B.Tech Computer Science Engineering</b><br/>
+    UPES, Dehradun
+  </p>
+
 </div>
-<p align="center">
-  <b>B.Tech CSE @ UPES, Dehradun</b> <br>
-  Always a ear for new tech<br>
-  <em>"Simplcicity is the ultimate sophistication"</em>
-</p>
 
-<p align="center">
-  <a href="https://github.com/AmanTewariSkoolKid">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AmanTewariSkoolKid?style=for-the-badge&label=Followers" />
-  </a>
-  <a href="https://github.com/AmanTewariSkoolKid">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/AmanTewariSkoolKid?style=for-the-badge&label=Profile%20Stars" />
-  </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AmanTewariSkoolKid&style=for-the-badge&color=blue" />
- 
+---
 
-
-## 👨‍💻 About Me
-- B.Tech CSE student at UPES Bidholi, Dehradun, India
-- Enjoys building web tools and experimenting with data/algorithms
-- Currently polishing JavaScript/TypeScript and problem-solving
-- Polishing Python as well
-- Fun fact: I love Cars , video games.
-
-
-## 🛠️ Tech Stack
-| Language      | Framework/Library | Tools         |
-| ------------- | ----------------- | ------------- |
-| JavaScript    | React, Node.js    | Git, VS Code  |
-| TypeScript    | Express           | GitHub        |
-| HTML5, CSS3   | Bootstrap         | Postman       |
-| Python        | Flash, Tinkiter, Panda             | Unreal Engine 5         |
+## 👨‍💻 Profile
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
+Computer Science undergraduate focused on backend systems, data processing pipelines,
+and performance-oriented software development. Strong interest in algorithmic design,
+system thinking, and scalable architectures.
 </p>
 
+---
 
-## 🚀 Featured Projects
-- [Anti-money-laundering-algorithm](https://github.com/AmanTewariSkoolKid/Anti-money-laundering-algorithm) — First attempt at AML detection logic and data rules
-- [Framezz.js](https://github.com/AmanTewariSkoolKid/Framezz.js) — Video annotation on the web; interactive overlays and timeline controls
-- See pinned repos below for more!
+## 🛠️ Technical Stack
 
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>JavaScript (ES6+), TypeScript, Python, HTML5, CSS3</td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>React, Node.js, Express, Bootstrap</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git, GitHub, VS Code, Postman, Unreal Engine 5</td>
+  </tr>
+</table>
 
-## 📊 GitHub Stats & Activity
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanTewariSkoolKid&show_icons=true&hide_border=true&title_color=640D5F&icon_color=640D5F&text_color=222222&bg_color=FFCC00,FFF9E3" alt="Aman's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTewariSkoolKid&layout=compact&hide_border=true&title_color=640D5F&text_color=222222&bg_color=FFCC00,FFF9E3" alt="Top Languages" />
-</p>
+<br/>
+
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api?username=AmanTewariSkoolKid&bg=FFCC00&color=640D5F&line=EB5B00&point=B12C00&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
 </p>
-<!-- Cards are provided by github-readme-stats and update automatically; themes and params can be customized. -->
 
+---
 
-## 📬 How to Reach Me
-- Email: aman.tms347@gmail.com
+## 🚀 Selected Projects
 
+### Anti-Money-Laundering Algorithm
+Rule-based transaction anomaly detection system with structured filtering logic.
+
+<a href="https://github.com/AmanTewariSkoolKid/Anti-money-laundering-algorithm">
+  View Repository
+</a>
+
+<br/><br/>
+
+### Framezz.js
+Browser-based video annotation platform with interactive overlays and timeline controls.
+
+<a href="https://github.com/AmanTewariSkoolKid/Framezz.js">
+  View Repository
+</a>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanTewariSkoolKid&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTewariSkoolKid&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 📬 Contact
+
+<p>
+Email: <a href="mailto:aman.tms347@gmail.com">aman.tms347@gmail.com</a>
+</p>
